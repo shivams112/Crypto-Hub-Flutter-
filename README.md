@@ -1,16 +1,19 @@
-# cryptoapp
+# About Crypto Hub
 
-A new Flutter project.
+A beautiful and smooth application totally made with Flutter through which a user can track the current scenario i.e price and hikes of various Crypto Currencies in the market. The reason why I made this application is to brush my skills in APIs handling and Asynchronous tasks in Flutter.
 
-## Getting Started
+PS-> There are many features which I'd definitely try to implement in future. 
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```bash
+flutter build apk
+```
+```bash
+flutter install
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Some UI Screenshots
+
+![alt text](https://github.com/shivams112/Crypto-Hub-Flutter-/blob/master/ss.png)
