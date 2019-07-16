@@ -16,4 +16,4 @@ flutter install
 
 ## Some UI Screenshots
 
-![alt text](https://github.com/shivams112/Crypto-Hub-Flutter-/blob/master/ss.png){: style="height:150px;width:150px"}
+![alt text](https://github.com/shivams112/Crypto-Hub-Flutter-/blob/master/ss.png)
